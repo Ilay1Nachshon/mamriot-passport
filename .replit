@@ -1,0 +1,2 @@
+entrypoint = "index.html"
+modules = ["web"]
